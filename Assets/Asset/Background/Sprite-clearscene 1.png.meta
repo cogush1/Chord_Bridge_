@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: fc378394d3ee9df41afb48ab9fcdab05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7799401302801352315
+    second: Sprite-clearscene 1_0
+  - first:
+      213: 7260146604579330546
+    second: Sprite-clearscene 1_1
+  - first:
+      213: 2289032318423772873
+    second: Sprite-clearscene 1_2
+  - first:
+      213: -379186462576601995
+    second: Sprite-clearscene 1_3
+  - first:
+      213: 9100627849083009933
+    second: Sprite-clearscene 1_4
+  - first:
+      213: -505621992505603154
+    second: Sprite-clearscene 1_5
+  - first:
+      213: -2449040411088546569
+    second: Sprite-clearscene 1_6
+  - first:
+      213: 7125017024971229273
+    second: Sprite-clearscene 1_7
+  - first:
+      213: -5089970376367557786
+    second: Sprite-clearscene 1_8
+  - first:
+      213: 7080989054149088823
+    second: Sprite-clearscene 1_9
+  - first:
+      213: 1110177369756072278
+    second: Sprite-clearscene 1_10
+  - first:
+      213: -3638970615996997072
+    second: Sprite-clearscene 1_11
+  - first:
+      213: -3242492920631560463
+    second: Sprite-clearscene 1_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 706
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5897ecd86d5f2c390800000000000000
+      internalID: -7799401302801352315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f99537fed831c460800000000000000
+      internalID: 7260146604579330546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 706
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea90b04c644cf10800000000000000
+      internalID: 2289032318423772873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 706
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741c7adbebdcbaf0800000000000000
+      internalID: -379186462576601995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 706
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bbe91cfcceb4e70800000000000000
+      internalID: 9100627849083009933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 706
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab041a0a7babf8f0800000000000000
+      internalID: -505621992505603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 706
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f49d70c8b2430ed0800000000000000
+      internalID: -2449040411088546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_7
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 706
+        width: 20
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584508fb3521e260800000000000000
+      internalID: 7125017024971229273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_8
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 706
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b95719eacc59b0800000000000000
+      internalID: -5089970376367557786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_9
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 706
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365cfe270ab44260800000000000000
+      internalID: 7080989054149088823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_10
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 706
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fcf19f64286f00800000000000000
+      internalID: 1110177369756072278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 706
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0322a6d3187cf7dc0800000000000000
+      internalID: -3638970615996997072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-clearscene 1_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 706
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6790f3ed95003d0800000000000000
+      internalID: -3242492920631560463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite-clearscene 1_0: -7799401302801352315
+      Sprite-clearscene 1_1: 7260146604579330546
+      Sprite-clearscene 1_10: 1110177369756072278
+      Sprite-clearscene 1_11: -3638970615996997072
+      Sprite-clearscene 1_12: -3242492920631560463
+      Sprite-clearscene 1_2: 2289032318423772873
+      Sprite-clearscene 1_3: -379186462576601995
+      Sprite-clearscene 1_4: 9100627849083009933
+      Sprite-clearscene 1_5: -505621992505603154
+      Sprite-clearscene 1_6: -2449040411088546569
+      Sprite-clearscene 1_7: 7125017024971229273
+      Sprite-clearscene 1_8: -5089970376367557786
+      Sprite-clearscene 1_9: 7080989054149088823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

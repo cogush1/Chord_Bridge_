@@ -1,4 +1,5 @@
 # Chord_Bridge_
+https://chexus.itch.io/chordbridge
 
 <Stroytelling>
 The protagonist uses a 'Sound Gauge' to bridge paths and survive. 
